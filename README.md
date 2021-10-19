@@ -6,7 +6,7 @@ This GitHub repo is where the content is managed prior to approval to publish. T
 # Layout
 
 * PCC home page following look and feel pattern 
-  * Maternal page as a front door for those interested in Maternal topics
+  * [Maternal page](maternal.html) as a front door for those interested in Maternal topics
 
 # Prototype review
 
