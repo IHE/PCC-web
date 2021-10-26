@@ -20,5 +20,37 @@ This profile specifies four folders that are created and used by the information
 
 # Resources availble from IHE
 
-- blah
-- blah
+- Antepartum Profiles: https://www.ihe.net/Technical_Framework/upload/IHE_PCC_Suppl_AntepartumProfiles_Rev1-2_TI_2011-09-09.pdf 
+(APE, APHP, APL, and APS) 
+    - Antepartum Education (APE)
+    - Antepartum Laboratory (APL)
+    - Antepartum History and Physical (APHP)
+    - Antepartum Summary (APS)
+
+- Labor and Delivery Profiles: https://www.ihe.net/uploadedFiles/Documents/PCC/IHE_PCC_Suppl_Labor_and_Delivery_Profiles.pdf 
+(LDHP, LDS and MDS)
+    - Labor and Delivery History and Physical (LDHP)
+    - Labor and Delivery Summary (LDS)
+    - Maternal Discharge Summary (MDS)
+	
+- Newborn Discharge Summary (NDS): https://www.ihe.net/Technical_Framework/upload/IHE_PCC_Suppl_NDS_Rev1-2_TI_2011-09-09.pdf
+
+- Postpartum Visit Summary (PPVS): https://www.ihe.net/Technical_Framework/upload/IHE_PCC_Suppl_PPVS_Rev1-2_TI_2011-09-09.pdf
+
+- Early  Hearing Detection and Intervention (EHDI): https://www.ihe.net/uploadedFiles/Documents/QRPH/IHE_QRPH_Suppl_EHDI.pdf
+
+- Sharing Laboratory Reports (XD-LAB) Profile: https://www.ihe.net/uploadedFiles/Documents/PaLM/IHE_PaLM_TF_Vol1.pdf 
+(PaLM TF-1 Section 9) 
+
+- Birth and Fetal Death Reporting-Enhanced (BFDR-E): https://www.ihe.net/uploadedFiles/Documents/QRPH/IHE_QRPH_Suppl_BFDR-E_Rev4-0_PC_2021-07-23.pdf
+(Public Comment)
+
+- Birth and Fetal Death Reporting-Labor and Delivery Summary for Vital Records (BFDR-LDS-VR): https://www.ihe.net/uploadedFiles/Documents/QRPH/IHE_QRPH_Suppl_BFDR-LDSVR.pdf
+
+- Birth and Fetal Death Reporting-v2.6 Messaging (BFDR-v2): https://www.ihe.net/uploadedFiles/Documents/QRPH/IHE_QRPH_Suppl_BFDR-v2-6.pdf
+
+- Family Planning Version 2 (FPv2): https://www.ihe.net/uploadedFiles/Documents/QRPH/IHE_QRPH_Suppl_FPv2.pdf
+
+
+- Cross-Enterprise Document Sharing for Imaging (XDS-I.b): https://www.ihe.net/uploadedFiles/Documents/Radiology/IHE_RAD_TF_Vol1.pdf
+(IHE RAD TF-1: 2.3.16)
