@@ -54,3 +54,5 @@ This profile specifies four folders that are created and used by the information
 
 - [Cross-Enterprise Document Sharing for Imaging (XDS-I.b)](https://www.ihe.net/uploadedFiles/Documents/Radiology/IHE_RAD_TF_Vol1.pdf)
 (IHE RAD TF-1: 2.3.16)
+
+- [Enabling Document Sharing Health Information Exchange Using IHE Profiles](https://profiles.ihe.net/ITI/HIE-Whitepaper/index.html)
