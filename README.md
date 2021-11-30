@@ -7,7 +7,7 @@ This GitHub repo is where the content is managed prior to approval to publish. T
 
 * PCC home page following look and feel pattern 
   * [Maternal page](maternal.html) as a front door for those interested in Maternal topics
-  * [EMS page](ems.html) as a front door for those interested in the EMS topics
+  * [EMS page](EMS.html) as a front door for those interested in the EMS topics
 
 # Prototype review
 
