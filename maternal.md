@@ -1,5 +1,5 @@
 # Mothers
-Mothers are great, we all have one
+The following information provides a summary of the IHE Profiles that cover the encounters a mother undergoes during a normal pregnancy.
 
 # Intro
 During a normal pregnancy, a mother will undergo several encounters in an obstetric setting.  These encounters will track the progression of the pregnancy.  Diagnostic tests, such as labs and imaging studies will be ordered, and the results incorporated into the record of care for the antepartum period.  As the expectant mother nears her delivery date, many of these records will  be shared with the delivery location. 
@@ -18,7 +18,7 @@ Records for each period are maintained in folders in the information exchange.  
 
 This profile specifies four folders that are created and used by the information systems used during the antepartum, labor and delivery, and postpartum periods for the mother and the newborn period for the baby.  These are specified in PCC TF-2:6.A, 6.L, 6.N and 6.P.  These folders must be created at the appropriate times by information systems when they share content.  Where possible[1], these systems first search for a folder of an appropriate type in the Health Information Exchange.  If an appropriate folder can be found, it should be verified by the user before new documents are added to it.  If an appropriate folder cannot be found the system must create it in the first submission that is exchanged.
 
-# Resources availble from IHE
+# Resources available from IHE
 
 - [Antepartum Profiles](https://www.ihe.net/Technical_Framework/upload/IHE_PCC_Suppl_AntepartumProfiles_Rev1-2_TI_2011-09-09.pdf)
 (APE, APHP, APL, and APS) 
