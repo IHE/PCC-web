@@ -1,6 +1,3 @@
-# Mothers
-The following information provides a summary of the IHE Profiles that cover the encounters a mother undergoes during a normal pregnancy.
-
 # Intro
 During a normal pregnancy, a mother will undergo several encounters in an obstetric setting.  These encounters will track the progression of the pregnancy.  Diagnostic tests, such as labs and imaging studies will be ordered, and the results incorporated into the record of care for the antepartum period.  As the expectant mother nears her delivery date, many of these records will  be shared with the delivery location. 
 
