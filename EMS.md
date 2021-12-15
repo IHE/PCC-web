@@ -1,10 +1,9 @@
 # Emergency Medical Services
-Mothers are great, we all have one. Emergecny Medical Services related profiles for exchanging healthcare data 
 
 # Intro
-IHE profiles that can help facilitate the infomration exchange between EMS Systems and Healthcare systems. 
+IHE profiles that can help facilitate the information exchange between EMS Systems and Healthcare systems. 
 
-# Resources availble from IHE
+# Resources available from IHE
 
 - [Paramedicine Care Summary (PCS)](https://www.ihe.net/uploadedFiles/Documents/PCC/IHE_PCC_Suppl_PCS.pdf)
 
